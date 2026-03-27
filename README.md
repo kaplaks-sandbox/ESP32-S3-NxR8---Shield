@@ -28,4 +28,6 @@ However most of the connectors for the SPI and I2C devices can be mounted on the
 Refer to the Silkscreen text.
 
 ---
+**3D View**
+![3D View](3D-View.png)
 
