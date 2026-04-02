@@ -1,9 +1,14 @@
 SCH - Issues:
-D39 to J5 ?
-RXD0 / TXD0? Use? To Uart instead?
-duplicate text to bottom layer
+None - cleanup around vreg?
+
+PCB - Current Version: Known Issues
+None
 
 PCB - next version
-Footprint of Connectors?
-Move VR pots out slightly
-Add jumper to disconnect controller from supply lines if usb 
+Remove Schottky diodes?
+Add silkscreen to indicate rotation of VReg
+Change footprint for pots
+Change footprint for caps
+Add silkscreen line to indicate rotation of connecters if c-side mounted
+Move silkscreen text further form connectors
+Make pads a bit bigger around vreg
