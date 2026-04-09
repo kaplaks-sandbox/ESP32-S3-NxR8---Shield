@@ -10,3 +10,13 @@ SPI
 3v3	GND	MOSI	SCK	MISO	CS2 (48)	x	x
 
 x = pad
+
+### I²C
+SDA → GPIO8  
+SCL → GPIO9
+
+### SPI
+MOSI → GPIO11  
+MISO → GPIO13  
+SCK  → GPIO12  
+CS   → GPIO10
